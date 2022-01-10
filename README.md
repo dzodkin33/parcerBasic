@@ -1,2 +1,3 @@
 # parcerBasic
-Простой парсер, который я написал во время ознакомления с библиотекой BeautifulSoup
+## About 
+A very basic parcer I made after getting familiar with BeautifulSoup
